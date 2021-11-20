@@ -29,7 +29,7 @@ export default {
         });
         console.log("WARNING: ",results);
         if (results.status==201) {
-          window.alert('Successfully Signed In')
+          window.alert('Successfully Logged In')
           
 
         }
